@@ -1,3 +1,5 @@
+package Exercise_250417;
+
 import java.util.Scanner;
 
 public class GuessTheNumber {
