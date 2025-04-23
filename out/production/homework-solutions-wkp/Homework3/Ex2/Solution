@@ -1,0 +1,4 @@
+Static Type m1 = Message, also als das was es deklariert wurde.
+Dynamic Type m1 = Email, also das was tatsächlich erzeugt wurde.
+
+Die Methode Email.getType() wird gerufen, da m1 ja dynamisch eine Email ist.
