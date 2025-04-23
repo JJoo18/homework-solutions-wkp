@@ -1,0 +1,13 @@
+AccountManager:
+    Alle Zugriffe funktionieren.
+
+ExternalAudit:
+    'pin' has protected access in 'Homework3.Ex1.Account'
+    'internalNote' is not public in 'Homework3.Ex1.Account'. Cannot be accessed from outside package
+
+CompanyAccount:
+    'pin' has protected access in 'Homework3.Ex1.Account'
+    'internalNote' is not public in 'Homework3.Ex1.Account'. Cannot be accessed from outside package
+
+Protected = Kann in Package abgerufen/verändert werden.
+Private = Kann nur in jeweiliger Klasse direkt geändert werden, oder über eine Methode.
